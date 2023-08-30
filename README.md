@@ -1,4 +1,4 @@
-# Covid-19-Case-Analyses
+# Covid-19-Case-Analysis
 
 Welcome to the COVID-19 Dataset repository. This data repository contains a collection of historical data on the COVID-19 outbreak. The dataset has been edited to provide researchers, analysts, and the general public with information regarding the rate and amount of spread of the COVID-19 virus. This dataset was deprecated on June 5. The last update remains for posterity.
 
