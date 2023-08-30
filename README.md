@@ -14,3 +14,4 @@ Data Format and Sources
 File formats available for download include comma-separated values (.csv) and Tableau Hyper file (.hyper). This data is sourced from JHU CSSE COVID-19 Data as well as The New York Times.
 
 Note: Please find the Tableau project link in 'Covid-19_Dashbord.png'
+Note 2: This study was done by looking at other similar work to improve my signage knowledge.
